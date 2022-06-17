@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <>
             <h1 className="header-1"> Call a Friend </h1>
-            <span>your firendly contacts App</span>
+            <span>your friendly contact app</span>
             <p className="bintang"> *********************************************************** </p>
         </>
     )
